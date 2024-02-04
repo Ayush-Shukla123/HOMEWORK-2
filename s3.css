@@ -1,0 +1,29 @@
+h1{
+    color:darkgreen;
+    font-family: serif;
+}
+
+body {
+  background-color: lightyellow;
+}
+
+img{
+    border: 4px solid green;
+    border-style:dashed;
+}
+
+b{
+    font-family: cursive;
+    font-size: large;
+    color: darkslategrey;
+}
+
+p{
+    font-size: medium;
+    font-family:  sans-serif;
+    color: darkcyan;
+}
+li{
+    font-family: cursive;
+    color:darkblue;
+}
